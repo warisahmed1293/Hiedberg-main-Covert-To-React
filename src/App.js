@@ -4,7 +4,7 @@ import ellispe from './assets/images/image_ellipse.svg'
 
 function App() {
   return (
-    <div className="App">
+    <div className="App"> 
       <Navbar headerId="home-header" ImageEllispe={ellispe} Heading="Innovative ideas deserve a chance to reach their potential" />
     </div>
   );
